@@ -45,36 +45,28 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a content creator and instructional designer who is passionate about creating extraordinary learning experiences in healthcare and science. I strive to create the best possible learning experience, while making learning accessible to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products.
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm an instructional designer who is passionate about creating extraordinary learning experiences, primarily in
+      in healthcare and science. I strive to create the best possible learning experience, while making learning accessible
+      to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products.
+
+      Download my [resume]() or check out my [portfolio]().
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MEd in Education Specializing in Distance Education
+      university: Athabasca University
+      time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        In this degree, I focused on openness in education, medical simulations in distance education,
+        and the use of technology in education.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: Registered Nurse Licensure
+      university: Ontario
+      time: 2011 - Present
+      details: |
+    - degree: BSc in Nursing
+      university: University of Ottawa
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
