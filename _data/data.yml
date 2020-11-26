@@ -3,24 +3,24 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Kyle Slinn
+    tagline: Instructional Designer
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: test@test.com
+    phone:
+    website: slinn.ca #do not add http://
+    linkedin: kyle-slinn
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #use single quotes, example '@kyle-slinn'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,24 +30,22 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: Limited
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Fine Woodworking
         link:
 
-      - item: Cooking
+      - item: Board Games
         link:
 
 career-profile:
     title: Career Profile
     summary: |
+      I'm a content creator and instructional designer who is passionate about creating extraordinary learning experiences in healthcare and science. I strive to create the best possible learning experience, while making learning accessible to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products.
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
