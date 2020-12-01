@@ -70,7 +70,7 @@ education:
 experiences:
     - role: Senior Content Manager & Operations Specialist
       time: 2020 - Present
-      company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa)
+      company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa, Canada)
       details: |
         My responsibilities include:
           - Planning curriculum, filming on location, editing footage, and managing the team of illustrators and video editors working on clinical skill video content.
@@ -78,18 +78,21 @@ experiences:
           - Assisting the Chief Operating Officer on a wide variety of operations tasks, such as IT security, intellectual property compliance, and procurement of hardware and software solutions.
           - Risk management for a variety of organizational issues.
           - Providing support and insight on internal intellectual property and contract law issues.
-        Samples of work completed: [Tracheal intubation: Direct laryngoscopy](https://www.youtube.com/watch?v=3bB96zPxSWA)
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+        Samples from Clinical Skills video series: [Tracheal intubation: Direct laryngoscopy](https://www.youtube.com/watch?v=3bB96zPxSWA); [High-frequency oscillatory ventilation](https://www.youtube.com/watch?v=2CNpvGYwqP8)
+    - role: Senior Content Operations Manager & Instructional Designer
+      time: 2017 - 2020
+      company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa, Canada)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My responsibilities included:
+          - Designing the original voice, tone, and educational flow of Osmosis High-Yield Notes textbooks (pathology and physiology).
+          - Managing relationships with various printing manufacturers and negotiating printing contracts.
+          - Developing supply chain management and distribution policies of our print products.
+          - Designing and directing the original voice, tone, educational flow, and visual style of Osmosis clinical skill videos.
+          - Providing support and insight on intellectual property and contract law questions internally.
+          - Risk management for a variety of organizational issues.
+
+        Samples from High-Yield book series: [Blood Components and Function](); [Nephrotic Syndrome]()
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
