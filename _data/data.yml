@@ -33,23 +33,23 @@ sidebar:
         level: Limited
 
     interests:
-      - item: Climbing
+      - item: Fine Woodworking
         link:
 
-      - item: Fine Woodworking
+      - item: Rock Climbing
         link:
 
       - item: Board Games
         link:
 
 career-profile:
-    title: Career Profile
+    title: ABOUT ME
     summary: |
       I'm an instructional designer who is passionate about creating extraordinary learning experiences, primarily in
       in healthcare and science. I strive to create the best possible learning experience, while making learning accessible
       to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products.
 
-      Download my [resume]() or check out my [portfolio]().
+      Download my [resume](https://1drv.ms/b/s!AsL-Mro5g79-g8ZGBh8CAE0UnUT0yQ?e=57dead) or check out my [portfolio]().
 education:
     - degree: MEd in Education Specializing in Distance Education
       university: Athabasca University
@@ -68,21 +68,17 @@ education:
       time: 2007 - 2011
       details: |
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Content Manager & Operations Specialist
+      time: 2020 - Present
+      company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        My responsibilities include:
+          - Planning curriculum, filming on location, editing footage, and managing the team of illustrators and video editors working on clinical skill video content.
+          - Fostering strong partnerships with universities and hospitals to create clinical skill content.
+          - Assisting the Chief Operating Officer on a wide variety of operations tasks, such as IT security, intellectual property compliance, and procurement of hardware and software solutions.
+          - Risk management for a variety of organizational issues.
+          - Providing support and insight on internal intellectual property and contract law issues.
+        Samples of work completed: [Tracheal intubation: Direct laryngoscopy](https://www.youtube.com/watch?v=3bB96zPxSWA)
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
