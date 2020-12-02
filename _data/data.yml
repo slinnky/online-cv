@@ -48,7 +48,7 @@ career-profile:
       I'm an instructional designer who is passionate about digital innovation and creating extraordinary learning experiences, primarily in
       in healthcare and science. I strive to create the best possible learning experience, while making learning accessible
       to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products. I have:
-        - Overseen the creation of, or personally created, 1800+ educational videos”.
+        - Overseen the creation of, or personally created, 1800+ educational videos.
         - Grown two YouTube channels to over 2.7 million subscribers and 303 million views, collectively.
         - Published 6 textbooks.
 
@@ -103,7 +103,7 @@ experiences:
           - Risk management for a variety of organizational issues.
 
         Samples from High-Yield book series: [Blood Components and Function](https://1drv.ms/b/s!AsL-Mro5g79-g8ZbrtzjipQjtwsEuw?e=rBt1Cv); [Nephrotic Syndrome](https://1drv.ms/b/s!AsL-Mro5g79-g8ZcaIWa8FRhrltYDA?e=VhgG0u)
-    - role: Video Content lead
+    - role: Video Content Lead
       time: 2016 - 2017
       company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa, Canada)
       details: |
@@ -177,46 +177,44 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here is a list of my publications, which comprises of books, opinion pieces, corporate blog posts, and essays I've written.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: What is Elaborative Rehearsal? An Osmosis Guide
+        link: "https://www.osmosis.org/blog/2020/08/18/what-is-elaborative-rehearsal-an-osmosis-guide"
+        authors: Kyle Slinn
+        conference: Osmosis, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Osmosis High-yield Physiology Notes
+        link: "http://books.osmosis.org/"
+        authors: The Osmosis Team
+        conference: Osmosis (2019)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Is 'High-Yield ' Learning Making Future Docs Less Prepared?
+        link: "https://www.medscape.com/viewarticle/910353"
+        authors: Kyle Slinn
+        conference: Medscape, 2020
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Adobe Auditions
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Adobe InDesign & Affinity Publisher
+        level: 92%
 
-      - name: Angular
-        level: 98%
+      - name: Adobe Premiere & DaVinci Resolve
+        level: 87%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Adobe Captivate & Articulate 360
+        level: 87%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Adobe Photoshop & Illustrator, Affinity Photo & Designer
         level: 60%
+
+      - name: Python
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
