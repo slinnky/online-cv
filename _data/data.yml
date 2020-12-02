@@ -45,9 +45,19 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-      I'm an instructional designer who is passionate about creating extraordinary learning experiences, primarily in
+      I'm an instructional designer who is passionate about digital innovation and creating extraordinary learning experiences, primarily in
       in healthcare and science. I strive to create the best possible learning experience, while making learning accessible
-      to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products.
+      to anyone worldwide. I excel at converting large nebulous projects into high-quality focused products. I have:
+        - Overseen the creation of, or personally created, 1800+ educational videos”.
+        - Grown two YouTube channels to over 2.7 million subscribers and 303 million views, collectively.
+        - Published 6 textbooks.
+
+      I specialize in:
+        - Content creation for online video & print.
+        - Publication of print products (supply-chain management and distribution).
+        - Managing remote teams.
+        - Community building on YouTube's platform.
+        - USA and Canadian copyright law and open education licenses.
 
       Download my [resume](https://1drv.ms/b/s!AsL-Mro5g79-g8ZGBh8CAE0UnUT0yQ?e=57dead) or check out my [portfolio]().
 education:
@@ -79,7 +89,7 @@ experiences:
           - Risk management for a variety of organizational issues.
           - Providing support and insight on internal intellectual property and contract law issues.
 
-        Samples from Clinical Skills video series: [Tracheal intubation: Direct laryngoscopy](https://www.youtube.com/watch?v=3bB96zPxSWA); [High-frequency oscillatory ventilation](https://www.youtube.com/watch?v=2CNpvGYwqP8)
+        Samples from Clinical Skills video series: [Tracheal Intubation: Direct Laryngoscopy](https://www.youtube.com/watch?v=3bB96zPxSWA); [High-frequency oscillatory ventilation](https://www.youtube.com/watch?v=2CNpvGYwqP8)
     - role: Senior Content Operations Manager & Instructional Designer
       time: 2017 - 2020
       company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa, Canada)
@@ -92,18 +102,51 @@ experiences:
           - Providing support and insight on intellectual property and contract law questions internally.
           - Risk management for a variety of organizational issues.
 
-        Samples from High-Yield book series: [Blood Components and Function](); [Nephrotic Syndrome]()
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Samples from High-Yield book series: [Blood Components and Function](https://1drv.ms/b/s!AsL-Mro5g79-g8ZbrtzjipQjtwsEuw?e=rBt1Cv); [Nephrotic Syndrome](https://1drv.ms/b/s!AsL-Mro5g79-g8ZcaIWa8FRhrltYDA?e=VhgG0u)
+    - role: Video Content lead
+      time: 2016 - 2017
+      company: Osmosis - Knowledge Diffusion Inc, Remote (Ottawa, Canada)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My responsibilities included:
+          - Designing the original voice, tone, and educational flow of Osmosis animated videos (pathology and physiology) in collaboration with our lead video creator.
+          - Recruiting and managing a team of remote script writers & flashcard writers to produce scripts and flashcards for the Osmosis platform.
+          - Managing the Osmosis YouTube channel, including translation of subtitles into 20+ languages.
+          - Managing the relationship with the Wikipedia Medicine community; uploading videos and subtitles to Wikipedia.
+
+        Samples from Learning Science and Pathology video series: [Multimedia Learning](https://www.youtube.com/watch?v=w-_0E-OiEqc); [Aneurysms](https://www.youtube.com/watch?v=-IpakaZOlYM)
+    - role: Advisor to Board of Directors
+      time: 2020 - Present
+      company: Vista on the Park Condominium - Ottawa, Canada
+      details: |
+        I was nominated to be an advisor to the Board of Directors at the Vista on the Park Condominium, where I held equal roles and responsibilities
+        of a typical Board of Director, minus voting rights. A notable event during my tenure was risk management during the COVID-19 global pandemic.
+    - role: Project Coordinator
+      time: 2013 - 2015
+      company: Khan Academy - Mountain View, California
+      details: |
+        - Oversaw and completed multiple year-long projects (on time and under budget) related to related to MCAT and NCLEX-RN test-preparation.
+        - Managed a budget of $500,000 over 2 years.
+        - Managed 75 globally remote contractors simultaneously.
+        - Created and curated articles, videos, and questions on health and medical topics.
+        - Collected and interpreted data from Qualaroo, Google Analytics, and YouTube, using this knowledge to improve our educational resources.
+        - Optimized content for search engines (SEO), internationalization, and accessibility.
+        - Administered two 1-week content creation training camps, training 10-15 people each session.
+        - Recruited content creators through job postings and several search talent competitions.
+
+        Samples from the projects I worked on: [Schizophrenia symptoms](https://www.youtube.com/watch?v=dU_rYyPGYiE); [Antibiotic Resistance](https://1drv.ms/b/s!AsL-Mro5g79-g8ZdWDgnjoAKf3diBA?e=NPGoCu)
+    - role: Registered Nurse
+      time: 2011 - 2013
+      company: Children's Hospital of Eastern Ontario - Ottawa, Canada
+      details: |
+        I was employed in the intensive care unit where I worked closely with other health care professionals to treat and care for patients with complex or life-threatening illnesses.
+    - role: Head Lifeguard / Head Instructor
+      time: 2005 - 2013
+      company: City of Ottawa - Ottawa, Canada
+      details: |
+        I taught swimming lessons to children of all ages. Certification courses I taught & examined included: Standard First Aid with CPR C, National Lifeguarding Service,
+        Bronze Medallion, Bronze Cross. As a Head Lifeguard I supervised other lifeguard/instructors, acted as a customer service representative, troubleshoot facility
+        internal issues, and organized facility events. During the summers, I would sometimes assume the role of a camp counselor.
+
 projects:
     title: Projects
     intro: >
