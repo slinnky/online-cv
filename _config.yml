@@ -17,7 +17,7 @@ analytics: G-MZJ5METT3C
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: default # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
 compress-site: yes
