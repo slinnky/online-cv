@@ -278,11 +278,11 @@ publications:
 projects:
     title: Projects
     intro: >
-      Here is a brief summary on select projects I have completed since 2015. Check out my full portfolio [here]() Samples are available upon request.
+      Here is a brief summary on select projects I have completed since 2015. Check out my full portfolio. Samples are available upon request.
     assignments:
       - title: Mechanical Ventilation - Laerdal & Osmosis
         link: "https://laerdal.com/ca/products/tech/mechanical-ventilation-e-learning/"
-        tagline: "In response to COVID-19 and in partnership with Laerdal, we created a remote mechanical ventilation course designed to prepare health care providers for patients on mechancial ventilators. The course is also available in 7 languages."
+        tagline: "In response to COVID-19 and in partnership with Laerdal, we created a remote mechanical ventilation course designed to prepare health care providers for patients on mechancial ventilators. The course is also available in 8 languages."
 
       - title: "Clinical Skill Video Series - Osmosis"
         tagline: "Clinical Skills is an Osmosis video series that provides a concise overview covering how to perform clinical procedures in the health care setting."
