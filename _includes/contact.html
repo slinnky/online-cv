@@ -2,15 +2,14 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.email %}
-    <form action="https://formspree.io/f/xrgoaqbe" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-    </form>
-
-    <!-- <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
-    </li> -->
+    <li class="email"><i class="fas fa-envelope"></i>
+      <!--<a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>-->
+      <form action="https://formspree.io/f/xrgoaqbe" method="POST">
+      <input type="text" name="name">
+      <input type="email" name="_replyto">
+      <input type="submit" value="Send">
+      </form>
+    </li>
     {% endif %}
 
     {% if sidebar.phone %}
