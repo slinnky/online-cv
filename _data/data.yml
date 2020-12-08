@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@kyle-slinn'
+    twitter: 'kyle-slinn'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -164,7 +164,7 @@ skills:
       - name: Adobe Captivate & Articulate 360
         level: 87%
 
-      - name: Adobe Photoshop & Illustrator, Affinity Photo & Designer
+      - name: Adobe Photoshop & Illustrator, Affinity Photo, & Designer
         level: 60%
 
       - name: Python
@@ -278,7 +278,7 @@ publications:
 projects:
     title: Projects
     intro: >
-      Here is a brief summary on select projects I have completed since 2015. Check out my full portfolio [here](). Samples are available upon request.
+      Here is a brief summary on select projects I have completed since 2015. Check out my full portfolio [here]() Samples are available upon request.
     assignments:
       - title: Mechanical Ventilation - Laerdal & Osmosis
         link: "https://laerdal.com/ca/products/tech/mechanical-ventilation-e-learning/"
