@@ -201,27 +201,27 @@ publications:
     intro: |
       Here is a list of my publications, which comprises of books, opinion pieces, corporate blog posts, and essays I've written.
     papers:
-      - title: What is Elaborative Rehearsal? An Osmosis Guide.
+      - title: "What is Elaborative Rehearsal? An Osmosis Guide."
         link: "https://www.osmosis.org/blog/2020/08/18/what-is-elaborative-rehearsal-an-osmosis-guide"
         authors: Kyle Slinn
         conference: Osmosis, 2020
 
-      - title: Osmosis High-yield Physiology Notes
+      - title: "Osmosis High-yield Physiology Notes"
         link: "http://books.osmosis.org/"
         authors: The Osmosis Team
         conference: Osmosis (2019)
 
-      - title: Is 'High-Yield ' Learning Making Future Docs Less Prepared?
+      - title: "Is 'High-Yield ' Learning Making Future Docs Less Prepared?"
         link: "https://www.medscape.com/viewarticle/910353"
         authors: "Kyle Slinn"
         conference: "Medscape, 2019"
 
-      - title: Osmosis High-Yield Pathology Notes: Volume 2
+      - title: "Osmosis High-Yield Pathology Notes: Volume 2"
         link: "http://books.osmosis.org/"
         authors: "The Osmosis Team"
         conference: "Osmosis, 2018"
 
-      - title: Osmosis High-Yield Pathology Notes: Volume 1
+      - title: "Osmosis High-Yield Pathology Notes: Volume 1"
         link: "http://books.osmosis.org/"
         authors: "The Osmosis Team"
         conference: "Osmosis, 2018"
@@ -236,7 +236,7 @@ publications:
         authors: "Fergus Baird, Rishi Desai, Tanner Marshall, Kyle Slinn, Vincent Waldman"
         conference: "Osmosis, 2018"
 
-      - title: Medical Education Videos for the World: An Analysis of Viewing Patterns for a YouTube Channel
+      - title: "Medical Education Videos for the World: An Analysis of Viewing Patterns for a YouTube Channel"
         link: "https://journals.lww.com/academicmedicine/Abstract/2018/08000/Medical_Education_Videos_for_the_World___An.28.aspx"
         authors: "Tackett, Sean MD, MPH; Slinn, Kyle RN, MEd; Marshall, Tanner MS; Gaglani, Shiv MBA; Waldman, Vincent PhD; Desai, Rishi MD, MPH"
         conference: "Academic Medicine, 2018"
@@ -251,7 +251,7 @@ publications:
         authors: "Fergus Baird, Rishi Desai, Tanner Marshall, Kyle Slinn, Vincent Waldman"
         conference: "Osmosis, 2017"
 
-      - title: Open Osmosis: Promoting the Global Diffusion of Open Education Resources
+      - title: "Open Osmosis: Promoting the Global Diffusion of Open Education Resources"
         link: "https://www.researchgate.net/publication/315963973_Open_Osmosis_Promoting_the_Global_Diffusion_of_Open_Education_Resources"
         authors: "Tackett, Sean MD, MPH; Gaglani, Shiv MBA; Slinn, Kyle RN, MEd; Marshall, Tanner MS; Desai, Rishi MD, MPH; Haynes, M.R."
         conference: "Osmosis, 2017"
@@ -261,17 +261,17 @@ publications:
         authors: "Rishi Desai, Tanner Marshall, Kyle Slinn"
         conference: "Osmosis, 2016"
 
-      - title: Anemia: At a glance
+      - title: "Anemia: At a glance"
         link: "https://1drv.ms/b/s!AsL-Mro5g79-g8Zt7yp-awADSd-J5w?e=t3QIkr"
         authors: "Kyle Slinn"
         conference: "Khan Academy, 2015"
 
-      - title: Antibiotics: An overview
+      - title: "Antibiotics: An overview"
         link: "https://1drv.ms/b/s!AsL-Mro5g79-g8Zujthcs9MbxQBg1A?e=3lwYAV"
         authors: "Kyle Slinn"
         conference: "Khan Academy, 2015"
 
-      - title: Ebola: At a glance
+      - title: "Ebola: At a glance"
         link: "https://1drv.ms/b/s!AsL-Mro5g79-g8Zv1C1CgAbQ37qdcA?e=Tw1Y9s"
         authors: "Kyle Slinn"
         conference: "Khan Academy, 2015"
@@ -286,17 +286,17 @@ publications:
         authors: "Kyle Slinn"
         conference: "Khan Academy, 2014"
 
-      - title: Google Loon: Closing the Digital Divide
+      - title: "Google Loon: Closing the Digital Divide"
         link: "https://1drv.ms/b/s!AsL-Mro5g79-g8Zyk6-MeCzeY-8YCg?e=ASbEWA"
         authors: "Kyle Slinn"
         conference: "Athabasca, 2013"
 
-      - title: The Role Clinical Experience Plays With Learning Effectiveness in Simulation: A Pilot Study
+      - title: "The Role Clinical Experience Plays With Learning Effectiveness in Simulation: A Pilot Study"
         link: "https://1drv.ms/b/s!AsL-Mro5g79-g8Zz5uQ9lKmkKQ4Rmg?e=CFVpJg"
         authors: "Kyle Slinn"
         conference: "Athabasca, 2013"
 
-      - title: The Effectiveness, Economics, and Application to Distance Education of Medical Simulation Training: A Literature Review
+      - title: "The Effectiveness, Economics, and Application to Distance Education of Medical Simulation Training: A Literature Review"
         link: "https://1drv.ms/b/s!AsL-Mro5g79-g8Z0DH0AMyEgLAA3Sg?e=uh5hf5"
         authors: "Kyle Slinn"
         conference: "Athabasca, 2013"
