@@ -4,11 +4,21 @@
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <!--<a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>-->
-      <form action="https://formspree.io/f/xrgoaqbe" method="POST">
-      <input type="text" name="name">
-      <input type="email" name="_replyto">
-      <input type="submit" value="Send">
-      </form>
+      <form
+        action="https://formspree.io/f/xrgoaqbe"
+        method="POST"
+      >
+      <label>
+        Your email:
+        <input type="text" name="_replyto">
+      </label>
+      <label>
+        Your message:
+        <textarea name="message"></textarea>
+      </label>
+      <button type="submit">Send</button>
+
+</form>
     </li>
     {% endif %}
 
