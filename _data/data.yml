@@ -155,16 +155,34 @@ skills:
       - name: Adobe Auditions
         level: 98%
 
-      - name: Adobe InDesign & Affinity Publisher
+      - name: Adobe InDesign
         level: 92%
 
-      - name: Adobe Premiere & DaVinci Resolve
+      - name: Affinity Publisher
+        level: 92%
+
+      - name: Adobe Premiere
         level: 87%
 
-      - name: Adobe Captivate & Articulate 360
+      - name: DaVinci Resolve
         level: 87%
 
-      - name: Adobe Photoshop & Illustrator, Affinity Photo, & Designer
+      - name: Adobe Captivate
+        level: 87%
+
+      - name: Articulate 360
+        level: 87%
+
+      - name: Adobe Photoshop
+        level: 60%
+
+      - name: Abobe Illustrator
+        level: 60%
+
+      - name: Affinity Photo
+        level: 60%
+
+      - name: Affinity Designer
         level: 60%
 
       - name: Python
