@@ -1,27 +1,6 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
-    {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
-      <!--<a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>-->
-      <form
-        action="https://formspree.io/f/xrgoaqbe"
-        method="POST"
-      >
-      <label>
-        Your email:
-        <input type="text" name="_replyto">
-      </label>
-      <label>
-        Your message:
-        <textarea name="message"></textarea>
-      </label>
-      <button type="submit">Send</button>
-
-</form>
-    </li>
-    {% endif %}
-
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
@@ -85,6 +64,26 @@
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.email %}
+    <li class="email"><i class="fas fa-envelope"></i>
+      <!--<a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>-->
+      <form
+        action="https://formspree.io/f/xrgoaqbe"
+        method="POST"
+      >
+        <label>
+          Your email:
+          <input type="text" name="_replyto">
+        </label>
+        <label>
+          Your message:
+          <textarea name="message"></textarea>
+        </label>
+        <button type="submit">Send</button>
+      </form>
     </li>
     {% endif %}
 
