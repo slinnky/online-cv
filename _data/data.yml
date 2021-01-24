@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kyle Slinn
-    tagline: Instructional Designer
+    tagline: Instructional Designer | Video Producer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -176,6 +176,9 @@ skills:
 
       - name: Affinity Designer
         level: 60%
+        
+      - name: Adobe After Effects
+        level: 40%
 
       - name: Python
         level: 30%
