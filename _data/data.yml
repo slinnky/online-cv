@@ -293,9 +293,16 @@ projects:
     intro: >
       Below, you will find a brief summary of select recent projects of mine. Check out my full portfolio above. Samples are available upon request.
     assignments:
-      - title: Mechanical Ventilation - Laerdal & Osmosis collaboration
-        link: "https://laerdal.com/ca/products/tech/mechanical-ventilation-e-learning/"
+      - title: COVID-19 & COVID-19 Vaccine Video Series - Google LLC and Osmosis collaboration
+        tagline: "To combat the growing misinformation being shared on the YouTube platform, we created and released nine evidenced-based educational videos on YouTube. Topics included: COVID-19 treatments, development and safety of the COVID-19 vaccines, vaccine hesitancy, long-term COVID symptoms, and COVID-19 variants and how they affect herd immunity."
+      
+      - title: FirstRespondersFirst Nursing Resilience  - Thrive Global, Johnson & Johnson Foundation, and Osmosis collaboration
+        link: "https://university.osmosis.org/p/nursing-resilience"
         tagline: "In response to COVID-19 and in partnership with Laerdal, we created a remote mechanical ventilation course designed to prepare health care providers for patients on mechanical ventilators. The course has been made available in 8 languages."
+      
+      - title: Mechanical Ventilation - Laerdal and Osmosis collaboration
+        link: "https://laerdal.com/ca/products/tech/mechanical-ventilation-e-learning/"
+        tagline: "To address the toll COVID-19 has taken on the mental health of nurses, we created a free, 4-hour online course helping nurses self-identify causes and symptoms of stress, and presented how to implement stress reducing strategies. The course has also been accredited for continuing education credit in the United States."
 
       - title: "Clinical Skill Video Series - Osmosis"
         tagline: "Clinical Skills is an Osmosis video series that provides a concise overview covering how to perform clinical procedures in the health care setting."
